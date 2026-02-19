@@ -1,4 +1,5 @@
 # hackpad-v2
+hi! This is my second version of my macropad (you can find the first @dizzles-hackpad). It has 7 buttons, 2 rotary encoders, an OLED, a xiao rp2040 as the microcontroller, and more! I'm pretty proud of my project as this is only my 3rd time using KiCAD, and I think i did pretty well. My goal in building this was to use up the extra parts I recieved with my first hackpad kit. yay!
 PCB Routed
 <img width="1084" height="805" alt="image" src="https://github.com/user-attachments/assets/d11c231f-d07f-443d-8e49-0e0fd719a1a0" />
 Schematic
