@@ -490,7 +490,7 @@
       "plot": "hackpad",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../Downloads.stl",
+      "step": "Downloads.step",
       "svg": "",
       "vrml": ""
     },
@@ -588,10 +588,10 @@
       ],
       "filter_string": "",
       "group_symbols": true,
-      "include_excluded_from_bom": true,
+      "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "${EXCLUDE_FROM_BOARD}"
     },
     "connection_grid_size": 50.0,
     "drawing": {
