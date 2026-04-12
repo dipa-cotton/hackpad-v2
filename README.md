@@ -1,13 +1,16 @@
 # hackpad-v2
 hi! This is my second version of my macropad (you can find the first @dizzles-hackpad). It has 7 buttons, 2 rotary encoders, an OLED, a xiao rp2040 as the microcontroller, and more! I'm pretty proud of my project as this is only my 3rd time using KiCAD, and I think i did pretty well. My goal in building this was to use up the extra parts I recieved with my first hackpad kit. yay!
 PCB Routed
-<img width="846" height="690" alt="Screenshot 2026-04-12 112700" src="https://github.com/user-attachments/assets/5f9a42f6-c81b-494a-a0c4-50e3a93bd049" />
+<img width="855" height="736" alt="Screenshot 2026-04-12 151109" src="https://github.com/user-attachments/assets/f85d289c-7c57-4fdc-8f01-59ffe9cc1cd6" />
+
 
 Schematic
-<img width="890" height="696" alt="Screenshot 2026-04-12 112751" src="https://github.com/user-attachments/assets/9d3a51aa-5181-4be3-8300-fee6de4bbcc7" />
+<img width="989" height="623" alt="Screenshot 2026-04-12 151133" src="https://github.com/user-attachments/assets/4967d264-4ff8-4880-a183-acdb2e5f03b0" />
+
 
 3D Render
-<img width="858" height="694" alt="Screenshot 2026-04-12 115124" src="https://github.com/user-attachments/assets/e4d3851f-b0e1-4747-8e12-63c5d86e934b" />
+<img width="832" height="684" alt="Screenshot 2026-04-12 151118" src="https://github.com/user-attachments/assets/2f961741-f605-4d88-a05c-d5411952451e" />
+
 
 BOM and Shopping Carts
 <img width="1549" height="759" alt="image" src="https://github.com/user-attachments/assets/45d6a220-4275-4632-9c3d-f69140f4459e" />
